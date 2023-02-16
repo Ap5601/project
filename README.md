@@ -1,2 +1,2 @@
 # Tdiscuss - Tourism in India
-intership
+It is forum project made using php,html,css,javascript,sql
